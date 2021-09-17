@@ -2,3 +2,4 @@
 
 TMDB
 npm
+npmstart
